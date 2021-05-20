@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "For SUPPORT ☛ use the Discussions feature of this repository"
+    url: https://github.com/emacscollective/.github/wiki/Discussions-redirect
+    about: Please search, ask and answer questions here.
